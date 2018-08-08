@@ -121,8 +121,8 @@ I need more midi which for SC-88Pro
 |ED00|神社||
 |ED01 |Endless||
 |ED02 |久遠の楽園||
-|STAFF|Mystic Dream|[ZUN][ZUN's MIDI Collection]|SC-88Pro|
-|EXED |Peaceful Romancer||
+|STAFF|Mystic Dream||
+|EXED |Peaceful Romancer|[ZUN][ZUN's MIDI Collection]|SC-88Pro|
 |NAME |魂の休らむ所||
 
 [ZUN's MIDI Collection]: http://www16.big.or.jp/~zun/html/music_old.html "東方幻相的音樂"
